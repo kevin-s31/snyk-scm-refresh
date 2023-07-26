@@ -3,7 +3,10 @@
 ![snyk-oss-category](https://github.com/snyk-labs/oss-images/blob/main/oss-community.jpg)
 
 # snyk-scm-refresh
-[![Known Vulnerabilities](https://snyk.io/test/github/snyk-labs/snyk-scm-refresh/badge.svg)](https://snyk.io/test/github/snyk-labs/snyk-scm-refresh) ![ci](https://github.com/snyk-labs/snyk-scm-refresh/actions/workflows/ci.yml/badge.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/snyk-labs/snyk-scm-refresh/badge.svg)](https://snyk.io/test/github/snyk-labs/snyk-scm-refresh) ![ci](https://github.com/snyk-labs/snyk-scm-refresh/actions/workflows/ci.yml/badge.svg) [![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellowgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
+**This repository is in maintenance mode, no new features are being developed. Bug & security fixes will continue to be delivered. Open source contributions are welcome for small features & fixes (no breaking changes)**
+
 <blockquote>
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> <strong>NOTE:</strong>
 We highly reccomend making use of the <a href="https://github.com/snyk-tech-services/snyk-api-import">api-import-tool</a> instead of snyk-scm-refresh. The API import tool benefits from longer-term support and covers the majority of use cases that scm-refresh does.
