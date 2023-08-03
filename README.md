@@ -7,7 +7,7 @@
 
 # ⛔️ DEPRECATED 
 
-**This repository is now deprecated. Please make use of the <a href="https://github.com/snyk-tech-services/snyk-api-import">snyk-api-import-tool</a> instead of snyk-scm-refresh. The snyk-api-import tool benefits from longer-term support and covers the majority of use cases that scm-refresh does. You can follow the migration guide to help you make the translation. This repo will be archived as of October 1st 2023.**
+**This repository is now deprecated. Please make use of the <a href="https://github.com/snyk-tech-services/snyk-api-import">snyk-api-import-tool</a> instead of snyk-scm-refresh. The snyk-api-import tool benefits from longer-term support and covers the majority of use cases that scm-refresh does. You can follow the <a href="https://github.com/kevin-s31/snyk-scm-refresh/wiki/Migrate-from-snyk‐scm‐refresh-to-snyk‐api‐import">migration guide </a> to help you make the translation. This repo will be archived as of October 1st 2023.**
 
 <!---blockquote>
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> <strong>NOTE:</strong>
